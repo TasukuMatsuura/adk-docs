@@ -178,3 +178,6 @@ docs/site
 
 # Cursor indexing ignore file
 .cursorindexingignore
+
+# Instructions directory
+.instructions/
