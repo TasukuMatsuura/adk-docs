@@ -172,3 +172,9 @@ docs/site
 # hugo
 /site/public
 .hugo_build.lock
+# SpecStory explanation file
+.specstory/
+.specstory/.what-is-this.md
+
+# Cursor indexing ignore file
+.cursorindexingignore
